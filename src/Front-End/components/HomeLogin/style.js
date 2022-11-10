@@ -15,7 +15,7 @@ export const Container = styled.div`
 
     img {
         background: transparent;
-        padding-left: 250px;
+        display: flex;
         margin: auto;
         width: 200px;
     }

@@ -1,5 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    background-repeat: repeat-y;
     background-image: linear-gradient(to right, #262b50,#2353ef);
-}
+};
+

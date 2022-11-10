@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import Home from "../components/HomeLogin";
-import Cadastro_Contrato from "../components/Cadastro_Contrato";
-import Cadastro_usuario from "../components/Cadastro_Usuarios"
+import Home from "../../Front-End/components/HomeLogin";
+import Cadastro_Contrato from "../../Front-End/components/Cadastro_Contrato";
+import Cadastro_usuario from "../../Front-End/components/Cadastro_Usuarios"
 
 const Rotas = () => {
     return (

@@ -15,7 +15,7 @@ export const Container = styled.div`
 
     img {
         background: transparent;
-        padding-left: 250px;
+        display: flex;
         margin: auto;
         width: 200px;
     }
@@ -32,7 +32,7 @@ export const Form = styled.form`
     font-size: 1.8vh;
     text-decoration: none;
 
-    .valor {
+    .usuario {
         margin: auto;
         width: 380px;
         margin-top: 30px;
@@ -43,7 +43,7 @@ export const Form = styled.form`
         font-size: 20px;
     }
 
-    .data {
+    .senha {
         margin: auto;;
         width: 380px;
         padding: 2vh;
